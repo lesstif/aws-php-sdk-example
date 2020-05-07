@@ -1,0 +1,14 @@
+{
+    "name": "lesstif/aws-php-sdk-example",
+    "type": "project",
+    "authors": [
+        {
+            "name": "KwangSeob Jeong",
+            "email": "lesstif@gmail.com"
+        }
+    ],
+    "require": {
+        "aws/aws-sdk-php": "^3.137",
+        "vlucas/phpdotenv": "^4.1"
+    }
+}
