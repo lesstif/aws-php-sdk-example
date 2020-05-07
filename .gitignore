@@ -114,4 +114,6 @@ fabric.properties
 # Build data
 /build/
 
+.env
+
 # End of https://www.gitignore.io/api/phpunit,composer,phpstorm
